@@ -12,7 +12,7 @@ body {
 }
 
 header {
-	background-color: #b20000;
+	background-color: #000000;
 	color: #ffffff;
 }
 
@@ -34,7 +34,7 @@ img {
 }
 
 .card {
-  border: 1px solid #999999;
+  border: 2px solid #d52a2a;
   border-radius: 3px;
 
   display: grid;
